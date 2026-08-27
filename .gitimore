@@ -1,0 +1,9 @@
+#directorios de compilacion
+/build/
+/dist/
+/nbproyects/private/
+
+# archivos de compliacion
+*.class
+*.jar
+
